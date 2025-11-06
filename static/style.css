@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fceef5; /* pastel pink */
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #a3d5ff; /* pastel blue */
+}
+
+p {
+    background-color: #d4f4dd; /* pastel green */
+    padding: 15px 25px;
+    border-radius: 12px;
+    font-size: 1.2rem;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fff7e6; /* pastel yellow */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
